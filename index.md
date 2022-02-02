@@ -2,6 +2,9 @@
 
 The development team known as The Cabinet was formed to develop a mobile application for and with the William McKinley Presidential Library and Museum. Throughout this semester, the team will be using this site to post updates as we make progress with applicaiton development. We are excited to get to work with The McKinley Museum and to continuously update our readers over the coming months!
 
-### Support or Contact
+## Project Log
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+# 2/2/22
+**First Update**
+Since this is our first project log item, the team wants to use this as a chance to catch our readers up on the work the team has done so far this semester. The first large item our team has completed would the draft for the Software Requirements Specification Document. The team put in many hours and performed research in order to complete the document. Also, our team has had the chance to meet once with the McKinley team so far this semester. During our meeting, the team was able to obtain information about the museum and learn about the requirements for the application. Our team plans to continue to communicate with museum staff throughout the semester. Finally, the team's focus for the coming week will be to make progress on the Preliminary Product Schedule and the Initial Press Release.
+
