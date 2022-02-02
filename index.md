@@ -1,7 +1,8 @@
+# About the Team
+
 <p align="center">
   <img width="350" height="350" src="mckinley.png">
 </p>
-# About the Team
 
 The development team known as The Cabinet was formed to develop a mobile application for and with the William McKinley Presidential Library and Museum. Throughout this semester, the team will be using this site to post updates as we make progress with applicaiton development. We are excited to get to work with The McKinley Museum and to continuously update our readers over the coming months!
 
