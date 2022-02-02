@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="460" height="300" src="mckinley.png">
+  <img width="350" height="350" src="mckinley.png">
 </p>
 ## About the Team
 
