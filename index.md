@@ -8,6 +8,10 @@ The development team known as The Cabinet was formed to develop a mobile applica
 
 # Project Log
 
+## 2/7/22
+### Schedule, Press Release, and Development
+---
+This week, the team is focusing on finishing the drafts for the Preliminary Project Schedule and Initial Press Release. The team utilized its Monday meeting today to make great progress. Next week, the team is planning to initialize the developmment environment and begin coding the application. Between now and then, the team will be working to make additions to our kanban board, so we can hit the ground running with development work next week.
 ## 2/2/22
 ### First Update
 ---
