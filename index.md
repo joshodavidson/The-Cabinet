@@ -9,7 +9,7 @@ The development team known as The Cabinet was formed to develop a mobile applica
 # Project Log
 
 ## 2/15/22
-## Intro Presentation and Development
+### Intro Presentation and Development
 ---
 The team had its weekly meeting yesterday afternoon and discussed its goals for the week. The team made some progress on next week's presentation during the meeting. Also, we were able to get the development environment established. The team plans to create tasks for the kanban board and work on them throughout the week. Also, the team plans to contribute to the presentation slides independently. We will be meeting again on Wednesday to further discuss the presentation and development work.
 ## 2/7/22
