@@ -8,6 +8,10 @@ The development team known as The Cabinet was formed to develop a mobile applica
 
 # Project Log
 
+## 2/21/22
+### Design Document #1
+---
+Today the team gave its introductory presentation for the project. The team also met today to discuss the agenda for the coming week. Over the next few days, the team plans to spend time working on the design document due next week. The team plans to meet Wednesday to attempt to finish the document. Once the document draft is complete, the team will focus its attention to the team kanban board and perform development work for the application.
 ## 2/15/22
 ### Intro Presentation and Development
 ---
