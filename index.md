@@ -8,6 +8,10 @@ The development team known as The Cabinet was formed to develop a mobile applica
 
 # Project Log
 
+## 3/1/22
+### Agenda Over Spring Break
+---
+This week, the team turned in the rough draft for design document #1. The team will be meeting tomorrow to discuss the work to be done for the project over spring break. Also, tomorrow the team plans to discuss the kanban board and possibly do some wireframing for some of the pages for the application. Overall, the project is progressing well, and they team is staying on task.
 ## 2/21/22
 ### Design Document #1
 ---
