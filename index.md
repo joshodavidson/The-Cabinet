@@ -8,6 +8,11 @@ The development team known as The Cabinet was formed to develop a mobile applica
 
 # Project Log
 
+## 3/15/22
+### Design Doc #2 and Possible Changes
+---
+The team's focus this week will be finishing design document #2. We will be meeting later this week in order to discuss and finish the document. Also, after discussion, the team is considering switching the programming language we use for the project from C# to Swift. Some team members have more experience with Swift, and it may be better for the project in the end. There is still more discussion to be had on this topic, but it is looking probable.
+
 ## 3/1/22
 ### Agenda Over Spring Break
 ---
