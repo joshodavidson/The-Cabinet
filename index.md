@@ -9,7 +9,6 @@ The development team known as The Cabinet was formed to develop a mobile applica
 # Project Log
 
 ## 3/24/22
-
 ### Design Doc #2 and App Development
 ---
 This week, the team turned in our rough draft for design document #2. The team will be meeting this Friday to really focus on the development effort. We have made good progress on the app over the past week. After discussion, the team chose to change our programming language to swift and focus on the iOS funcitonality of the application first. Given the team's experience, Swift turned out to be the better choice for the project. A TestFlight has been established for our application, so the team can download and test the application on our own devices as we work on it.
