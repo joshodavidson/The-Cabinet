@@ -8,6 +8,10 @@ The development team known as The Cabinet was formed to develop a mobile applica
 
 # Project Log
 
+## 3/29/22
+### Final Version of Design Doc #2 and App Development
+---
+The team met yesterday to revise design document #2 and discuss progress for the application. The application is progressing well as the loading screen, splash screen, home page, and navigation menu or pretty well implemented. The team spent some time yesterday discussing features we are hoping to implement over the coming week. The team has spent some time wireframing which helped establish a roadmap for pages to be implemented over the coming week. Overall, the team is currently in a good spot.
 ## 3/24/22
 ### Design Doc #2 and App Development
 ---
