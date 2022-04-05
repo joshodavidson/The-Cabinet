@@ -8,6 +8,11 @@ The development team known as The Cabinet was formed to develop a mobile applica
 
 # Project Log
 
+## 4/5/22
+### Status Meeting and Press Release #2
+---
+Yesterday, the team met with Professor Cindric to discuss the current status of the project. Aftr discussion, we as a team feel we are in a good spot and have a clear path for completion. The team also met seperately yesterday to discuss kanban tasks, development plans, and to discuss press release #2. The team will work together throughout the coming week to finish press release #2, and we will work seperatly on kanban tasks.
+
 ## 3/29/22
 ### Final Version of Design Doc #2 and App Development
 ---
