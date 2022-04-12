@@ -8,6 +8,10 @@ The development team known as The Cabinet was formed to develop a mobile applica
 
 # Project Log
 
+## 4/12/22
+### Press Release #2 and User Manual
+--- 
+The team has completed the final version of press release #2. The group is plans to distribute the release within the coming days. Next, the team will continue with development efforts and turn its attention towards the user's manual. The team will remain in close communicatin and coordinate as needed.
 ## 4/5/22
 ### Status Meeting and Press Release #2
 ---
