@@ -8,6 +8,11 @@ The development team known as The Cabinet was formed to develop a mobile applica
 
 # Project Log
 
+## 4/19/22
+### User Manual and Project
+---
+The team will be refining the user manual this week, so the final draft will be ready for Monday. The team will be pushing to finish the last of the development objectives this week and will be refining the project overall. The team will remain in communication, so the project will be ready by the due date.
+
 ## 4/12/22
 ### Press Release #2 and User Manual
 --- 
