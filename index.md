@@ -8,6 +8,10 @@ The development team known as The Cabinet was formed to develop a mobile applica
 
 # Project Log
 
+## 4/26/22
+### Project Presentation
+---
+This update is being pushed out the day before the team gives the final presenation for the proejct. This week, the team refined the final draft of the user manual for the project. The team has also worked to refine the application to the best of our ability. The team is meeting today to finalize the presentation and make sure everyone knows which information they are covering. The team looks forward to presenting tomorrow!
 ## 4/19/22
 ### User Manual and Project
 ---
